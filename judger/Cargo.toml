@@ -22,7 +22,7 @@ actix-web = "4"
 
 # Openapi generate
 utoipa = { version = "4", features = ["actix_extras"] }
-utoipa-swagger-ui = { version = "7", features = ["actix-web"] }
+utoipa-swagger-ui = { version = "8", features = ["actix-web"] }
 
 # Support global variable
 lazy_static = "1.4"
